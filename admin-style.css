@@ -1,0 +1,4 @@
+#er-mappings-table input[type="text"],
+#er-mappings-table input[type="url"] {
+    width: 100%;
+}

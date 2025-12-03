@@ -1,0 +1,98 @@
+# Dutch translation for Email Redirect plugin.
+# Copyright (C) 2024 Roy Boverhof
+# This file is distributed under the same license as the Email Redirect plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Email Redirect 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: 2024-01-01 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: email-redirect.php:56
+msgid "Email Redirect Settings"
+msgstr "E-mail Doorverwijzing Instellingen"
+
+#: email-redirect.php:57
+msgid "Email Redirect"
+msgstr "E-mail Doorverwijzing"
+
+#: email-redirect.php:103
+#: email-redirect.php:169
+msgid "e.g., company.com"
+msgstr "bijv. bedrijf.nl"
+
+#: email-redirect.php:104
+#: email-redirect.php:176
+msgid "https://example.com/page"
+msgstr "https://voorbeeld.nl/pagina"
+
+#: email-redirect.php:105
+#: email-redirect.php:179
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: email-redirect.php:132
+msgid "Domain"
+msgstr "Domein"
+
+#: email-redirect.php:133
+msgid "Redirect URL"
+msgstr "Doorverwijzings-URL"
+
+#: email-redirect.php:134
+msgid "Action"
+msgstr "Actie"
+
+#: email-redirect.php:150
+msgid "Add Mapping"
+msgstr "Koppeling toevoegen"
+
+#: email-redirect.php:153
+msgid "Enter domains without protocol (e.g., company.com or mail.company.com). Subdomain configurations take precedence over main domain matches."
+msgstr "Voer domeinen in zonder protocol (bijv. bedrijf.nl of mail.bedrijf.nl). Subdomein-configuraties hebben voorrang op hoofddomein-koppelingen."
+
+#: email-redirect.php:205
+#: widget.php:25
+msgid "Email Address:"
+msgstr "E-mailadres:"
+
+#: email-redirect.php:210
+#: widget.php:30
+msgid "your.email@company.com"
+msgstr "uw.email@bedrijf.nl"
+
+#: email-redirect.php:212
+#: widget.php:32
+msgid "Submit"
+msgstr "Verzenden"
+
+#: email-redirect.php:249
+msgid "Please enter a valid email address."
+msgstr "Voer een geldig e-mailadres in."
+
+#: email-redirect.php:258
+msgid "No redirect URL found for your email domain."
+msgstr "Geen doorverwijzings-URL gevonden voor uw e-maildomein."
+
+#: widget.php:8
+msgid "Email Redirect Form"
+msgstr "E-mail Doorverwijzing Formulier"
+
+#: widget.php:9
+msgid "Email form that redirects users based on their email domain"
+msgstr "E-mailformulier dat gebruikers doorverwijst op basis van hun e-maildomein"
+
+#: widget.php:42
+msgid "Enter Your Email"
+msgstr "Voer uw e-mailadres in"
+
+#: widget.php:45
+msgid "Title:"
+msgstr "Titel:"

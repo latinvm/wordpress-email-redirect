@@ -1,0 +1,95 @@
+# Copyright (C) 2024 Roy Boverhof
+# This file is distributed under the same license as the Email Redirect plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Email Redirect 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: email-redirect.php:56
+msgid "Email Redirect Settings"
+msgstr ""
+
+#: email-redirect.php:57
+msgid "Email Redirect"
+msgstr ""
+
+#: email-redirect.php:103
+#: email-redirect.php:169
+msgid "e.g., company.com"
+msgstr ""
+
+#: email-redirect.php:104
+#: email-redirect.php:176
+msgid "https://example.com/page"
+msgstr ""
+
+#: email-redirect.php:105
+#: email-redirect.php:179
+msgid "Remove"
+msgstr ""
+
+#: email-redirect.php:132
+msgid "Domain"
+msgstr ""
+
+#: email-redirect.php:133
+msgid "Redirect URL"
+msgstr ""
+
+#: email-redirect.php:134
+msgid "Action"
+msgstr ""
+
+#: email-redirect.php:150
+msgid "Add Mapping"
+msgstr ""
+
+#: email-redirect.php:153
+msgid "Enter domains without protocol (e.g., company.com or mail.company.com). Subdomain configurations take precedence over main domain matches."
+msgstr ""
+
+#: email-redirect.php:205
+#: widget.php:25
+msgid "Email Address:"
+msgstr ""
+
+#: email-redirect.php:210
+#: widget.php:30
+msgid "your.email@company.com"
+msgstr ""
+
+#: email-redirect.php:212
+#: widget.php:32
+msgid "Submit"
+msgstr ""
+
+#: email-redirect.php:249
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: email-redirect.php:258
+msgid "No redirect URL found for your email domain."
+msgstr ""
+
+#: widget.php:8
+msgid "Email Redirect Form"
+msgstr ""
+
+#: widget.php:9
+msgid "Email form that redirects users based on their email domain"
+msgstr ""
+
+#: widget.php:42
+msgid "Enter Your Email"
+msgstr ""
+
+#: widget.php:45
+msgid "Title:"
+msgstr ""
