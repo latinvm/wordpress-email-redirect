@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name: Email Redirect
+ * Plugin URI: https://github.com/latinvm/wordpress-email-redirect
  * Description: Redirects users to URLs based on their email domain
  * Version: 1.0.0
  * Author: Roy Boverhof
